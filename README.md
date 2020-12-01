@@ -24,10 +24,10 @@
     Step7:觀察skewness特徵並用BOX-COX進行轉換，最後在使用one-hot code
     Step8:使用XGBoost進行訓練，測試之後，並輸出預測的CSV檔
 <h1>程式方塊圖與寫法</h1>
-
-    於code中備註
+![image] (https://github.com/MachineLearningNTUT/regression-109318083/blob/main/Diagram.jpg)
 <h1>畫圖做結果分析</h1>
-    
+
+    常態分佈的調整，取對數log,特徵相關，
     於code中備註
 <h1> 討論預測值誤差很大的，是怎麼回事？ 如何改進？</h1> 
     
